@@ -1,0 +1,2 @@
+b.txt
+adding a line to b.txt
